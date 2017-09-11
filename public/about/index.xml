@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Phone Prove</title>
+    <link>http://phoneprove.com/about/</link>
+    <description>Recent content in Abouts on Phone Prove</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Thu, 07 Sep 2017 17:56:17 -0500</lastBuildDate>
+    
+	<atom:link href="http://phoneprove.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Phone Prove</title>
+      <link>http://phoneprove.com/about/</link>
+      <pubDate>Thu, 07 Sep 2017 17:56:17 -0500</pubDate>
+      
+      <guid>http://phoneprove.com/about/</guid>
+      <description>This is a creative outlet for my photography and videos.-
+I love to take pictures, shoot videos and play with them but realized I needed an outlet so I created this concept.-
+The idea of Phone Prove is to try and see what can be achieved using only phone cameras.-
+I took the challenge after seeing several YouTube videos talking about how the photographer is a lot more important than the equipment and I wanted to experiment.</description>
+    </item>
+    
+  </channel>
+</rss>

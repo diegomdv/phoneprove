@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buenos Aires on Phone Prove</title>
+    <link>http://phoneprove.com/tags/buenos-aires/</link>
+    <description>Recent content in Buenos Aires on Phone Prove</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Wed, 30 Aug 2017 16:08:18 -0500</lastBuildDate>
+    
+	<atom:link href="http://phoneprove.com/tags/buenos-aires/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guarding the elder</title>
+      <link>http://phoneprove.com/post/003.guarding-the-elder/</link>
+      <pubDate>Wed, 30 Aug 2017 16:08:18 -0500</pubDate>
+      
+      <guid>http://phoneprove.com/post/003.guarding-the-elder/</guid>
+      <description>&lt;p&gt;Took it during a family trip to Argentina, inside the &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/La_Recoleta_Cemetery&#34;&gt;Cementerio de la Recoleta&lt;/a&gt;&amp;rdquo;, where lots of historical characters from Argentina are burried.-
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
